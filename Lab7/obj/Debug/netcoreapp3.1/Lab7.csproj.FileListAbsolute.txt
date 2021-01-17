@@ -1,0 +1,12 @@
+/Users/PINK/Projects/Lab7/Lab7/obj/Debug/netcoreapp3.1/Lab7.csprojAssemblyReference.cache
+/Users/PINK/Projects/Lab7/Lab7/obj/Debug/netcoreapp3.1/Lab7.AssemblyInfoInputs.cache
+/Users/PINK/Projects/Lab7/Lab7/obj/Debug/netcoreapp3.1/Lab7.AssemblyInfo.cs
+/Users/PINK/Projects/Lab7/Lab7/obj/Debug/netcoreapp3.1/Lab7.csproj.CoreCompileInputs.cache
+/Users/PINK/Projects/Lab7/Lab7/bin/Debug/netcoreapp3.1/Lab7.deps.json
+/Users/PINK/Projects/Lab7/Lab7/bin/Debug/netcoreapp3.1/Lab7.runtimeconfig.json
+/Users/PINK/Projects/Lab7/Lab7/bin/Debug/netcoreapp3.1/Lab7.runtimeconfig.dev.json
+/Users/PINK/Projects/Lab7/Lab7/bin/Debug/netcoreapp3.1/Lab7.dll
+/Users/PINK/Projects/Lab7/Lab7/bin/Debug/netcoreapp3.1/Lab7.pdb
+/Users/PINK/Projects/Lab7/Lab7/obj/Debug/netcoreapp3.1/Lab7.dll
+/Users/PINK/Projects/Lab7/Lab7/obj/Debug/netcoreapp3.1/Lab7.pdb
+/Users/PINK/Projects/Lab7/Lab7/obj/Debug/netcoreapp3.1/Lab7.genruntimeconfig.cache
